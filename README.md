@@ -1,7 +1,6 @@
 <div align="center">
-![Uploading image.png…]()
 
-<img src="./coding-girl.png.png" width="420" alt="Jory programando">
+<img src="./coding-girl.png" width="420" alt="Jory programando">
 
 # ✦ Jory Castro Rodríguez ✦
 
@@ -56,31 +55,4 @@ Bot de Telegram con IA para generar y gestionar entornos Docker con n8n y OpenHa
 ---
 
 ### 🏨 [Sistema de Reserva de Hoteles](https://github.com/JoryCastroRodriguez23/Reserva-Hoteles-)
-App Java Swing con MySQL para gestionar clientes, habitaciones y reservas.
-
-![Java](https://img.shields.io/badge/Java-%23E4007C?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-%23E4007C?style=flat-square) ![JDBC](https://img.shields.io/badge/JDBC-%23E4007C?style=flat-square)
-
----
-
-### 🩺 [Consultorio de Pacientes](https://github.com/JoryCastroRodriguez23/Consultorio_Pacientes)
-Sistema de gestión clínica con interfaz limpia y base de datos relacional.
-
-![Java](https://img.shields.io/badge/Java-%23E4007C?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-%23E4007C?style=flat-square)
-
----
-
-## 📊 Estadísticas
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoryCastroRodriguez23&show_icons=true&hide_border=true&title_color=E4007C&icon_color=ff69b4&text_color=a8005a&bg_color=fff0f6)
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoryCastroRodriguez23&layout=compact&hide_border=true&title_color=E4007C&text_color=a8005a&bg_color=fff0f6)
-
-</div>
-
----
-
-<div align="center">
-<sub><i>"Como las estrellas, el buen código siempre brilla." 🌟</i></sub>
-</div>
+App Java Swing con MySQL para gestiona
