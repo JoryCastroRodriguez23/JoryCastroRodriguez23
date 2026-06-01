@@ -1,6 +1,7 @@
 <div align="center">
+![Uploading image.png…]()
 
-<img src="./coding-girl.png" width="420" alt="Jory programando">
+<img src="./coding-girl.png.png" width="420" alt="Jory programando">
 
 # ✦ Jory Castro Rodríguez ✦
 
