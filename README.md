@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- GIF chica programadora - funciona en GitHub -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img src="./coding-girl.png" width="420" alt="Jory programando">
 
 # ✦ Jory Castro Rodríguez ✦
 
@@ -10,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jory--litsy-%23E4007C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jory-litsy-3754831b8)
 [![GitHub followers](https://img.shields.io/github/followers/JoryCastroRodriguez23?label=followers&style=flat-square&color=E4007C)](https://github.com/JoryCastroRodriguez23)
 ![España](https://img.shields.io/badge/📍-España-%23E4007C?style=flat-square)
-![Stars](https://img.shields.io/badge/🌟-Dev%20Girl-%23E4007C?style=flat-square)
+![Dev Girl](https://img.shields.io/badge/🌟-Dev%20Girl-%23E4007C?style=flat-square)
 
 </div>
 
